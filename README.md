@@ -2,4 +2,4 @@
 
 This project seeks to find the impact of the COVID-19 pandemic on the general support for a universal government health insurance program at the state level. This research uses the
 American National Election Studies (ANES) time series survey from 2016 and 2020 and a multilevel regression and poststratification (MRP) model to determine the individual support for
-government health insurance at the state level.
+government health insurance at the state level. Through this analysis, it was found that states with the highest support are concentrated on the West Coast and Northeast, whereas states with lower levels of support are concentrated in the South and Midwest. Regional disparities in the response to COVID-19, as well as average income, in each state or region are both relevant factors in understanding how the pandemic affected support for government health insurance. Although general trends in American politics are often influenced by the region of the country and the political polarity of individual state governments, in this case an increase in support for a government health insurance program was observed nationwide.
